@@ -20,4 +20,4 @@ int main()
     p2->show();
     cout<<p1.get()<<endl;// p1 is null
     cout<<p2.get()<<endl;// p2 get ownership
-}}
+}
